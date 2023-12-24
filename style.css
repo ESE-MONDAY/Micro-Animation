@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: linear-gradient(260deg, #6a9eec, #65c0d3);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    background: #fff;
+    padding: 5rem;
+    border-radius: 2rem;
+}
+.home, .notification, .messages{
+    display: flex;
+    padding: 2rem;
+    gap: 2rem;
+
+    align-items: center;
+}
+
+.notification-svg, .messages-svg{
+    overflow: visible;
+}
