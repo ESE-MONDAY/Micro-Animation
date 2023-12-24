@@ -4,9 +4,7 @@ Welcome to my GSAP Micro Animations Repository! This repository showcases a coll
 
 ## Preview
 
-![GSAP Micro Animations](preview.gif)
 
-Check out the video snippet above to get a glimpse of the dynamic and fluid micro animations incorporated into this project.
 
 ## Getting Started
 
